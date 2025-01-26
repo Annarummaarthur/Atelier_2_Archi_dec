@@ -8,6 +8,7 @@
 
 
 ![Texte alternatif de l'image](archgi_image/image1.png)
+![Texte alternatif de l'image](archgi_image/image2.png)
 
 ### Sources de Données
 1. Commits
