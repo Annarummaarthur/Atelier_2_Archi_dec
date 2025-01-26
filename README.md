@@ -7,7 +7,7 @@
 - pyarrow : pour transformer les données en format parquet.
 
 
-![Texte alternatif de l'image](Downloads\archgi_image\image1)
+![Texte alternatif de l'image](C:\Users\arthu\OneDrive\Images\archgi_image\image1.png)
 
 ### Sources de Données
 1. Commits
